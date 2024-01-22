@@ -140,7 +140,17 @@
 
                                                                             ❗❗❗ 🤕🤕[HOME HEADER]🤕🤕 ❗❗❗
 
-    ## ✅II. subtitlu
+    ## ✅II. -Creating the Body content
+              -How to add IMAGES from Google
+              -Addin Images with copyed URL from Google
+              -Changing the 'next.config.js' file
+              -How to submit information from the Input field
+              -How to take Data from the Input
+              -How to submit what the User typed in the Input field
+
+[next.config.js]/[SRC/APP/page.js]/[SRC/COMPONENTS/HomeSearch.jsx]
+
+                                                                            ❗❗❗ 👃👃[BODY CONTENT]👃👃 ❗❗❗
 
     ## ✅III. subtitlu
 
