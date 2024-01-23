@@ -152,7 +152,19 @@
 
                                                                             ❗❗❗ 👃👃[BODY CONTENT]👃👃 ❗❗❗
 
-    ## ✅III. subtitlu
+    ## ✅III. -Creating the FOOTER
+               -How to make Footer Sticky
+               -How to make content fix at the bottom
+
+
+> How to take auttomatically the IP: 'https://extreme-ip-lookup.com/'
+> How to detect what Country the User has depending on his IP
+> How to protect you'r API key to not be see by other Users, for exemple the Git users, check the file '.env.local'. this file need to be create at the root of the Project, not in other folders
+> To make and API/IP KEY to work in a 'use client' file we need to write 'NEXT*PUBLIC_IP_API_KEY'or any name, but need to have in front of it 'NEXT_PUBLIC*....'
+
+[SRC/APP/layout.js]/[APP/COMPONNTS/Footer.jsx]/[APP/COMPONENTS/CountryLookup.jsx]
+
+                                                                            ❗❗❗ 🦶🦶[FOOTER CONTENT]🦶🦶 ❗❗❗
 
     ## ✅IV. subtitlu
 
