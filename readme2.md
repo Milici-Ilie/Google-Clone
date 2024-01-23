@@ -156,7 +156,6 @@
                -How to make Footer Sticky
                -How to make content fix at the bottom
 
-
 > How to take auttomatically the IP: 'https://extreme-ip-lookup.com/'
 > How to detect what Country the User has depending on his IP
 > How to protect you'r API key to not be see by other Users, for exemple the Git users, check the file '.env.local'. this file need to be create at the root of the Project, not in other folders
@@ -166,7 +165,11 @@
 
                                                                             ❗❗❗ 🦶🦶[FOOTER CONTENT]🦶🦶 ❗❗❗
 
-    ## ✅IV. subtitlu
+    ## ✅IV. -Creating the Search page and the Image page
+
+[APP/SEARCH/layout.jsx]/[APP/SEARCH/IMAGE/page.jsx]/[APP/SEARCH/WEB/page.jsx]/[SRC/APP/COMPONENTA/SearchHeader.jsx]
+
+                                                                             ❗❗❗ 🔍🔍[SEARCH IMAGE]🔍🔍 ❗❗❗
 
     ## ✅V. subtitlu
 
