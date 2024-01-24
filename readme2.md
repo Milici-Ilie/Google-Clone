@@ -171,7 +171,14 @@
 
                                                                              ❗❗❗ 🔍🔍[SEARCH IMAGE]🔍🔍 ❗❗❗
 
-    ## ✅V. subtitlu
+    ## ✅V. -Creating the SearchHeader
+
+> How to make a Header sticky/fix at the top of the page, check the file 'SearchHeader.jsx'
+> Creating the Search box Input Field for the Header
+
+[SRC/COMPONENTS/SearchHeader.jsx]/[SRC/COMPONENTS/SearchBox.jsx]
+
+                                                                             ❗❗❗ 🎧🎧[SEARCH HEADER]🎧🎧 ❗❗❗
 
     ## ✅VI. subtitlu
 
