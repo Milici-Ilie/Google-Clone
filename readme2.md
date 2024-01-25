@@ -180,7 +180,15 @@
 
                                                                              ❗❗❗ 🎧🎧[SEARCH HEADER]🎧🎧 ❗❗❗
 
-    ## ✅VI. subtitlu
+    ## ✅VI. -How to create the functionality for the Search Box
+             -How to take data from the URL for the SearchBox
+             -How to delete the text from the Search Box by pressing a button
+             -How to submit the text to the URL
+             -How to sent the text from the Input Field/Search Box to the server and the URL
+
+[SRC/COMPONENTS/SearchBox.jsx]/[]
+
+                                                                        ❗❗❗ 🦑🦑[SEARCH BOX FUNCTIONALITY]🦑🦑 ❗❗❗
 
     ## ✅VII. subtitlu
 
