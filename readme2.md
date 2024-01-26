@@ -185,8 +185,10 @@
              -How to delete the text from the Search Box by pressing a button
              -How to submit the text to the URL
              -How to sent the text from the Input Field/Search Box to the server and the URL
+             -Search Header Options
+             -How to select what the user choosed, the 'All' content or the 'Image' content
 
-[SRC/COMPONENTS/SearchBox.jsx]/[]
+[SRC/COMPONENTS/SearchBox.jsx]/[SRC/COMPONENTS/SearchHeader.jsx]
 
                                                                         ❗❗❗ 🦑🦑[SEARCH BOX FUNCTIONALITY]🦑🦑 ❗❗❗
 
