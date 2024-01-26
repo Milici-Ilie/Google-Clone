@@ -71,7 +71,7 @@
 
 [SRC/APP/error.jsx]/[]
 
-                                                                            ❗❗❗ 🌋🌋[HANDLING ERRORS]🌋🌋 ❗❗❗
+                                                                    ❗❗❗ 🌋🌋[HANDLING ERRORS]🌋🌋 ❗❗❗
 
     ## ✅VIII. -How to add Loading Effect using NextJs
                 -Where to download Spinners/Loaders
@@ -80,7 +80,7 @@
 
 [SRC/APP/loading.jsx]/[SRC/APP/page.js]
 
-                                                                            ❗❗❗ 🔃🔃[LOADING EFFECT]🔃🔃 ❗❗❗
+                                                                ❗❗❗ 🔃🔃[LOADING EFFECT]🔃🔃 ❗❗❗
 
     ## ✅IX. -Adding the Card Component
               -How to Fetch Data from an API
@@ -96,7 +96,7 @@
 
 [SRC/COMPONENTS/Card.jsx]/[SRC/COMPONENTS/Result.jsx]/[next.config.js]
 
-                                                                            ❗❗❗ 💳💳[CARD COMPONENT]💳💳 ❗❗❗
+                                                             ❗❗❗ 💳💳[CARD COMPONENT]💳💳 ❗❗❗
 
     ## ✅X. -Creating the individual page for every Card
              -How to create pages for some selected elements
@@ -107,13 +107,13 @@
 
 [APP/MOVIE/id/page.jsx]/[]
 
-                                                                            ❗❗❗ 🚃🚃[INDIVIDUAL PAGE CARD]🚃🚃 ❗❗❗
+                                                         ❗❗❗ 🚃🚃[INDIVIDUAL PAGE CARD]🚃🚃 ❗❗❗
 
     ## ✅XI. -How to add Search Bar
 
 [SRC/COMPONENTS/SearchBox.jsx]/[SRC/COMPONENTS/layout.js]
 
-                                                                            ❗❗❗ 🔍🔍[SEARCH BAR]🔍🔍 ❗❗❗
+                                                           ❗❗❗ 🔍🔍[SEARCH BAR]🔍🔍 ❗❗❗
 
     ## ✅XII. -How to deploy APP's to Vercel
 
@@ -138,7 +138,7 @@
 
 [SRC/APP/page.js]/[SRC/COMPONENTS/HomeHeader.jsx]/[]
 
-                                                                            ❗❗❗ 🤕🤕[HOME HEADER]🤕🤕 ❗❗❗
+                                                              ❗❗❗ 🤕🤕[HOME HEADER]🤕🤕 ❗❗❗
 
     ## ✅II. -Creating the Body content
               -How to add IMAGES from Google
@@ -150,7 +150,7 @@
 
 [next.config.js]/[SRC/APP/page.js]/[SRC/COMPONENTS/HomeSearch.jsx]
 
-                                                                            ❗❗❗ 👃👃[BODY CONTENT]👃👃 ❗❗❗
+                                                              ❗❗❗ 👃👃[BODY CONTENT]👃👃 ❗❗❗
 
     ## ✅III. -Creating the FOOTER
                -How to make Footer Sticky
@@ -163,13 +163,13 @@
 
 [SRC/APP/layout.js]/[APP/COMPONNTS/Footer.jsx]/[APP/COMPONENTS/CountryLookup.jsx]
 
-                                                                            ❗❗❗ 🦶🦶[FOOTER CONTENT]🦶🦶 ❗❗❗
+                                                             ❗❗❗ 🦶🦶[FOOTER CONTENT]🦶🦶 ❗❗❗
 
     ## ✅IV. -Creating the Search page and the Image page
 
 [APP/SEARCH/layout.jsx]/[APP/SEARCH/IMAGE/page.jsx]/[APP/SEARCH/WEB/page.jsx]/[SRC/APP/COMPONENTA/SearchHeader.jsx]
 
-                                                                             ❗❗❗ 🔍🔍[SEARCH IMAGE]🔍🔍 ❗❗❗
+                                                            ❗❗❗ 🔍🔍[SEARCH IMAGE]🔍🔍 ❗❗❗
 
     ## ✅V. -Creating the SearchHeader
 
@@ -178,7 +178,7 @@
 
 [SRC/COMPONENTS/SearchHeader.jsx]/[SRC/COMPONENTS/SearchBox.jsx]
 
-                                                                             ❗❗❗ 🎧🎧[SEARCH HEADER]🎧🎧 ❗❗❗
+                                                               ❗❗❗ 🎧🎧[SEARCH HEADER]🎧🎧 ❗❗❗
 
     ## ✅VI. -How to create the functionality for the Search Box
              -How to take data from the URL for the SearchBox
@@ -190,9 +190,13 @@
 
 [SRC/COMPONENTS/SearchBox.jsx]/[SRC/COMPONENTS/SearchHeader.jsx]
 
-                                                                        ❗❗❗ 🦑🦑[SEARCH BOX FUNCTIONALITY]🦑🦑 ❗❗❗
+                                                       ❗❗❗ 🦑🦑[SEARCH BOX FUNCTIONALITY]🦑🦑 ❗❗❗
 
-    ## ✅VII. subtitlu
+    ## ✅VII. -How to fetch data from the GOOGLE API and display the websites from there
+
+[SRC/APP/SEARCH/WEB/page.jsx]/[]
+
+                                                        ❗❗❗ 🧧🧧[GOOGLE API FETCHING]🧧🧧 ❗❗❗
 
     ## ✅VIII. subtitlu
 
