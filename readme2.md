@@ -198,7 +198,15 @@
 
                                                         ❗❗❗ 🧧🧧[GOOGLE API FETCHING]🧧🧧 ❗❗❗
 
-    ## ✅VIII. subtitlu
+    ## ✅VIII. -Handling Errors
+                -How to display errors
+                -How to display error if the User is searching for a non-extisting word 'aljfosfirbavbervb'
+
+> How to handle if there is no result for our search.
+
+[SRC/APP/SEARCH/error.jsx]/[SRC/APP/SEARCH/WEB/page.jsx]
+
+                                                        ❗❗❗ 🌋🌋[HANDLING ERRORS]🌋🌋 ❗❗❗
 
     ## ✅IX. subtitlu
 
