@@ -194,7 +194,9 @@
 
     ## ✅VII. -How to fetch data from the GOOGLE API and display the websites from there
 
-[SRC/APP/SEARCH/WEB/page.jsx]/[]
+> How to make search text bolder with some npm install: Terminal: 'npm i html-react-parser'
+
+[SRC/APP/SEARCH/WEB/page.jsx]/[SRC/COMPONENTS/WebSearchResults.jsx]
 
                                                         ❗❗❗ 🧧🧧[GOOGLE API FETCHING]🧧🧧 ❗❗❗
 
