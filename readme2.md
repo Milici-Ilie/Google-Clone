@@ -210,7 +210,13 @@
 
                                                         ❗❗❗ 🌋🌋[HANDLING ERRORS]🌋🌋 ❗❗❗
 
-    ## ✅IX. subtitlu
+    ## ✅IX. -How to add pagination
+              -How to add multiple pages
+              -How to increase the results when we go to the Next page or decrease it when go to Previous pages
+
+[SRC/APP/SEARCH/IMAGE/page.jsx]/[SRC/APP/SEARCH/WEB/page.jsx]/[SRC/COMPONENTS/PaginationButtons.jsx]/[SRC/COMPONENTS/WebSearchResult.jsx]/[SRC/COMPONENTS/ImageSearchResults.jsx]
+
+                                                            ❗❗❗ 📃📃[PAGINATION]📃📃 ❗❗❗
 
     ## ✅X. subtitlu
 
