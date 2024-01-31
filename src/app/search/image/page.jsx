@@ -22,7 +22,7 @@ export default async function ImageSearchPage({ searchParams }) {
           No results found for {searchParams.searchTerm}
         </h1>
         <p className="text-lg">
-          Try searching the web or images for something else{" "}
+          Try searching the web or images for something else
           <Link href="/" className="text-blue-500">
             Home
           </Link>
