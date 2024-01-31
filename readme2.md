@@ -218,7 +218,11 @@
 
                                                             ❗❗❗ 📃📃[PAGINATION]📃📃 ❗❗❗
 
-    ## ✅X. subtitlu
+    ## ✅X. -How to add Loading Effect for the Web pages and for the Images pages
+
+[SRC/APP/SEARCH/WEB/page.jsx]/[SRC/APP/SEARCH/WEB/loading.jsx]/[SRC/APP/SEARCH/IMAGE/page.jsx]/[SRC/APP/SEARCH/IMAGE/loading.jsx]
+
+                                                            ❗❗❗ 🔃🔃[LOADING EFFECT]🔃🔃 ❗❗❗
 
     ## ✅XI. subtitlu
 
