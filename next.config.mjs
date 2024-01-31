@@ -9,12 +9,10 @@ const nextConfig = {
       },
     ],
   },
-}; // the code that give acces on IMG's is "remotePatterns: [ 👃👃[BODY CONTENT]👃👃
-// {
-//   protocol: "https",
-//   hostname: "upload.wikimedia.org",
-//   pathname: "**",
-// },
-// ],"
+
+  experimental: {
+    missingSuspenseWithCSRBailout: false,
+  },
+};
 
 export default nextConfig;
