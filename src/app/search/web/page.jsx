@@ -2,6 +2,7 @@
 
 import WebSearchResult from "@/components/WebSearchResult";
 import Link from "next/link";
+import { Suspense } from "react";
 
 export default async function WebSearchPage({ searchParams }) {
   // 🧧🧧[GOOGLE API FETCHING]🧧🧧 this {searchParams} give us the posibility to fecth data from the google API
@@ -17,17 +18,19 @@ export default async function WebSearchPage({ searchParams }) {
   //🌋🌋[HANDLING ERRORS]🌋🌋 👇 here we are handling the error for non-existing words 'sfaoijfoirenjnlse'
   if (!results) {
     return (
-      <div className="flex flex-col justify-center items-center pt-10">
-        <h1 className="text-3xl mb-4">
-          No results found for {searchParams.searchTerm}
-        </h1>
-        <p className="text-lg">
-          Try searching the web or images for something else{" "}
-          <Link href="/" className="text-blue-500">
-            Home
-          </Link>
-        </p>
-      </div>
+      <Suspense>
+        <div className="flex flex-col justify-center items-center pt-10">
+          <h1 className="text-3xl mb-4">
+            No results found for {searchParams.searchTerm}
+          </h1>
+          <p className="text-lg">
+            Try searching the web or images for something else{" "}
+            <Link href="/" className="text-blue-500">
+              Home
+            </Link>
+          </p>
+        </div>
+      </Suspense>
     );
   }
   return <div>{results && <WebSearchResult results={data} />}</div>; //🧧🧧[GOOGLE API FETCHING]🧧🧧

@@ -10,18 +10,18 @@ export default function ImageSearchResults({ results }) {
           <div className="mb-8" key={result.link}>
             <div className="group">
               <Link href={result.image.contextLink}>
-                {/* <img
+                <img
                   src={result.link}
                   alt={results.title}
                   className="h-60 group-hover:shadow-xl w-full object-contain transition-shadow duration-300"
-                /> */}
-                <Image
+                />
+                {/* <Image
                   src={results.link}
                   alt="image"
                   width={300} // Setează lățimea imaginii
                   height={200} // Setează înălțimea imaginii
                   className="h-60 group-hover:shadow-xl w-full object-contain transition-shadow duration-300"
-                />
+                /> */}
               </Link>
               <Link href={result.image.contextLink}>
                 <h2 className="group-hover:underline truncate text-xl">
