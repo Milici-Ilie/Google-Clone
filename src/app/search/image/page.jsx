@@ -18,20 +18,22 @@ export default async function ImageSearchPage({ searchParams }) {
   //🌋🌋[HANDLING ERRORS]🌋🌋 👇 here we are handling the error for non-existing words 'sfaoijfoirenjnlse'
   if (!results) {
     return (
-      <Suspense>
-        <div className="flex flex-col justify-center items-center pt-10">
-          <h1 className="text-3xl mb-4">
-            No results found for {searchParams.searchTerm}
-          </h1>
-          <p className="text-lg">
-            Try searching the web or images for something else
-            <Link href="/" className="text-blue-500">
-              Home
-            </Link>
-          </p>
-        </div>
-      </Suspense>
+      <div className="flex flex-col justify-center items-center pt-10">
+        <h1 className="text-3xl mb-4">
+          No results found for {searchParams.searchTerm}
+        </h1>
+        <p className="text-lg">
+          Try searching the web or images for something else
+          <Link href="/" className="text-blue-500">
+            Home
+          </Link>
+        </p>
+      </div>
     );
   }
-  return <div>{results && <ImageSearchResults results={data} />}</div>; //🧧🧧[GOOGLE API FETCHING]🧧🧧
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <div>{results && <ImageSearchResults results={data} />}</div>
+    </Suspense>
+  ); //🧧🧧[GOOGLE API FETCHING]🧧🧧
 }
