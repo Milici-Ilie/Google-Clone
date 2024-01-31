@@ -6,7 +6,7 @@ import { useRouter } from "next/navigation";
 
 //👃👃[BODY CONTENT]👃👃 all file
 export default function HomeSearch() {
-  const [input, setInput] = useState();
+  const [input, setInput] = useState('');
   const [randomSearchLoading, setRandomSearchLoading] = useState(false);
   const router = useRouter();
   // console.log(input);
