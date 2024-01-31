@@ -224,7 +224,9 @@
 
                                                             ❗❗❗ 🔃🔃[LOADING EFFECT]🔃🔃 ❗❗❗
 
-    ## ✅XI. subtitlu
+    ## ✅XI. -How to deploy projects with Vercel
+
+> Check Section GOOGLE CLONE, last lesson. Lesson 29.16
 
     ## ✅XII. subtitlu
 

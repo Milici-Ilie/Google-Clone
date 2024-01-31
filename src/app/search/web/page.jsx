@@ -6,7 +6,7 @@ import Link from "next/link";
 export default async function WebSearchPage({ searchParams }) {
   // 🧧🧧[GOOGLE API FETCHING]🧧🧧 this {searchParams} give us the posibility to fecth data from the google API
   const startIndex = searchParams.start || "1"; //📃📃[PAGINATION]📃📃 📃📃[PAGINATION]📃📃
-  await new Promise((resolve) => setTimeout(resolve, 4000)); //🔃🔃[LOADING EFFECT]🔃🔃 this is how we create the effect of a loading, here we are creating only the loading effect, we keep the application on "await" for 4s/4000 in our case
+  await new Promise((resolve) => setTimeout(resolve, 1000)); //🔃🔃[LOADING EFFECT]🔃🔃 this is how we create the effect of a loading, here we are creating only the loading effect, we keep the application on "await" for 4s/4000 in our case
   const response = await fetch(
     `https://www.googleapis.com/customsearch/v1?key=${process.env.API_KEY}&cx=${process.env.CONTEXT_KEY}&q=${searchParams.searchTerm}'}&start=${startIndex}`
   ); //📃📃[PAGINATION]📃📃 here we added at the end of the link this '...&start=${startIndex}
